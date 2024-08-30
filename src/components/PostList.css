@@ -1,0 +1,28 @@
+.post-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .list-group-item {
+    transition: background-color 0.3s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: whitesmoke;
+  }
+  
+  .btn-success {
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .btn-success i {
+    margin-right: 8px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
